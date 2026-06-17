@@ -2,7 +2,7 @@
 
 A full-stack real-time simulator for spacecraft **Attitude Determination and Control Systems (ADCS)**. The system generates synthetic CubeSat rotational motion, fuses noisy IMU and magnetometer data through two algorithms (TRIAD and Extended Kalman Filter), and streams all estimates live to an interactive React dashboard.
 
-[Watch Demo Video](Demo.mp4)
+![Demo](demo.gif)
 
 ---
 
